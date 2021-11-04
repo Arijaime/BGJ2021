@@ -1,5 +1,5 @@
 # BGJ2021
-Juego de la Bahia Game Jame , con la temática de "la noche de los museos" 🚀
+Juego de la Bahia Game Jam , con la temática de "la noche de los museos" 🚀
 
 🎯 Way to work :
 
@@ -14,3 +14,10 @@ Juego de la Bahia Game Jame , con la temática de "la noche de los museos" 🚀
 
 👌 Permiso concedido :
     Todos los Merges serán via pull request
+
+
+Game dev stack 🎲
+
+Unity 2020.3.21f1
+
+Jetbrains Rider 2020.1.1
